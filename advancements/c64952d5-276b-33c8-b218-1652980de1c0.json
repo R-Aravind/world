@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-01-28 19:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2022-01-24 10:32:53 +0000"
@@ -585,7 +591,8 @@
       "minecraft:enderman": "2022-01-23 09:06:07 +0000",
       "minecraft:silverfish": "2022-01-26 17:45:12 +0000",
       "minecraft:zombie": "2022-01-22 20:42:59 +0000",
-      "minecraft:drowned": "2022-01-25 19:53:13 +0000"
+      "minecraft:drowned": "2022-01-25 19:53:13 +0000",
+      "minecraft:zombie_villager": "2022-01-28 12:31:47 +0000"
     },
     "done": false
   },
@@ -724,6 +731,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2022-01-24 10:32:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2022-01-28 19:01:26 +0000"
     },
     "done": true
   },
@@ -925,6 +938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2022-01-28 14:34:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2022-01-24 10:37:37 +0000"
@@ -1119,6 +1138,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:mushroom_fields": "2022-01-28 17:39:48 +0000",
+      "minecraft:taiga": "2022-01-28 17:48:35 +0000",
       "minecraft:deep_ocean": "2022-01-24 09:59:20 +0000",
       "minecraft:sunflower_plains": "2022-01-24 09:00:32 +0000",
       "minecraft:birch_forest": "2022-01-23 08:44:08 +0000",
@@ -1129,12 +1150,22 @@
       "minecraft:sparse_jungle": "2022-01-24 10:21:50 +0000",
       "minecraft:river": "2022-01-22 19:27:20 +0000",
       "minecraft:lukewarm_ocean": "2022-01-24 10:39:36 +0000",
+      "minecraft:stony_shore": "2022-01-28 14:02:46 +0000",
       "minecraft:dripstone_caves": "2022-01-26 17:49:07 +0000",
       "minecraft:swamp": "2022-01-23 08:44:32 +0000",
+      "minecraft:cold_ocean": "2022-01-28 17:35:54 +0000",
       "minecraft:forest": "2022-01-22 19:27:07 +0000",
+      "minecraft:lush_caves": "2022-01-28 18:23:43 +0000",
+      "minecraft:deep_cold_ocean": "2022-01-28 17:32:34 +0000",
+      "minecraft:frozen_ocean": "2022-01-28 18:42:55 +0000",
       "minecraft:windswept_forest": "2022-01-24 10:16:25 +0000",
+      "minecraft:deep_frozen_ocean": "2022-01-28 18:41:24 +0000",
       "minecraft:ocean": "2022-01-24 09:57:12 +0000",
+      "minecraft:jungle": "2022-01-28 14:01:27 +0000",
+      "minecraft:old_growth_spruce_taiga": "2022-01-28 17:49:01 +0000",
       "minecraft:windswept_savanna": "2022-01-22 20:25:53 +0000",
+      "minecraft:warm_ocean": "2022-01-28 14:02:21 +0000",
+      "minecraft:deep_lukewarm_ocean": "2022-01-28 13:56:47 +0000",
       "minecraft:flower_forest": "2022-01-22 20:50:40 +0000",
       "minecraft:old_growth_birch_forest": "2022-01-24 10:14:36 +0000",
       "minecraft:plains": "2022-01-22 19:25:48 +0000"
@@ -1333,6 +1364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2022-01-28 13:41:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2022-01-27 19:48:05 +0000"
@@ -1504,6 +1541,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-01-25 19:43:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-01-28 11:49:48 +0000"
     },
     "done": true
   },
@@ -2067,6 +2110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2022-01-28 19:01:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2022-01-24 20:22:35 +0000"
@@ -2106,6 +2155,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2022-01-23 08:07:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2022-01-28 19:01:26 +0000"
     },
     "done": true
   },
@@ -2334,6 +2389,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-01-24 10:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2022-01-28 13:41:12 +0000"
     },
     "done": true
   },
@@ -2598,6 +2659,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2022-01-27 12:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-01-28 19:29:46 +0000"
     },
     "done": true
   },
