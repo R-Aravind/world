@@ -605,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2022-02-07 18:59:18 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2022-01-27 01:04:45 +0530"
@@ -1097,6 +1103,12 @@
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2022-01-29 19:24:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2022-02-07 18:59:18 +0530"
     },
     "done": true
   },
@@ -2013,6 +2025,7 @@
       "mutton": "2022-01-24 15:49:52 +0530",
       "bread": "2022-01-24 23:20:13 +0530",
       "rotten_flesh": "2022-01-27 01:32:21 +0530",
+      "cookie": "2022-02-07 18:40:00 +0530",
       "melon_slice": "2022-01-24 16:16:26 +0530",
       "cooked_chicken": "2022-01-24 23:34:39 +0530",
       "cooked_salmon": "2022-01-24 14:44:38 +0530",
@@ -2684,6 +2697,12 @@
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-01-29 01:53:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2022-02-07 19:07:04 +0530"
     },
     "done": true
   },

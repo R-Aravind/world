@@ -625,6 +625,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2022-02-09 17:41:15 +0530",
       "minecraft:skeleton": "2022-01-31 18:09:39 +0530",
       "minecraft:hoglin": "2022-02-07 00:46:30 +0530",
       "minecraft:spider": "2022-02-01 00:19:28 +0530",
@@ -725,6 +726,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2022-02-06 15:53:33 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-02-09 17:41:33 +0530"
     },
     "done": true
   },
@@ -1222,21 +1229,26 @@
       "minecraft:birch_forest": "2022-01-31 23:29:33 +0530",
       "minecraft:windswept_hills": "2022-01-31 17:13:29 +0530",
       "minecraft:beach": "2022-01-31 17:40:04 +0530",
+      "minecraft:dark_forest": "2022-02-09 17:29:54 +0530",
+      "minecraft:sparse_jungle": "2022-02-09 17:41:01 +0530",
       "minecraft:river": "2022-01-31 17:14:19 +0530",
       "minecraft:lukewarm_ocean": "2022-02-05 21:04:42 +0530",
       "minecraft:snowy_plains": "2022-02-01 00:15:55 +0530",
+      "minecraft:dripstone_caves": "2022-02-09 17:47:18 +0530",
       "minecraft:swamp": "2022-01-31 23:29:49 +0530",
       "minecraft:cold_ocean": "2022-02-01 00:06:49 +0530",
       "minecraft:forest": "2022-01-31 17:18:05 +0530",
       "minecraft:lush_caves": "2022-02-01 00:34:40 +0530",
       "minecraft:desert": "2022-02-05 21:08:41 +0530",
       "minecraft:deep_frozen_ocean": "2022-02-07 12:35:20 +0530",
+      "minecraft:windswept_forest": "2022-02-09 17:31:21 +0530",
       "minecraft:ocean": "2022-02-04 19:04:18 +0530",
       "minecraft:old_growth_spruce_taiga": "2022-02-01 23:11:27 +0530",
       "minecraft:windswept_savanna": "2022-01-31 17:15:26 +0530",
       "minecraft:warm_ocean": "2022-02-05 21:08:00 +0530",
       "minecraft:deep_lukewarm_ocean": "2022-02-05 21:05:00 +0530",
       "minecraft:flower_forest": "2022-01-31 17:40:03 +0530",
+      "minecraft:old_growth_birch_forest": "2022-02-09 17:29:29 +0530",
       "minecraft:savanna": "2022-02-05 21:07:02 +0530",
       "minecraft:plains": "2022-01-31 17:13:57 +0530"
     },
