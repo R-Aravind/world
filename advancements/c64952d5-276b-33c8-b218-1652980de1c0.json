@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2022-02-16 00:22:32 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2022-01-23 01:27:34 +0530"
@@ -833,6 +839,7 @@
       "minecraft:skeleton": "2022-01-23 01:25:05 +0530",
       "minecraft:ghast": "2022-02-12 20:00:50 +0530",
       "minecraft:hoglin": "2022-02-04 22:28:13 +0530",
+      "minecraft:vindicator": "2022-02-16 00:27:13 +0530",
       "minecraft:spider": "2022-01-23 01:04:20 +0530",
       "minecraft:creeper": "2022-01-27 21:14:52 +0530",
       "minecraft:slime": "2022-02-01 16:23:53 +0530",
@@ -2421,6 +2428,7 @@
       "porkchop": "2022-02-05 12:17:36 +0530",
       "tropical_fish": "2022-02-14 18:04:16 +0530",
       "apple": "2022-01-24 21:43:17 +0530",
+      "spider_eye": "2022-02-15 23:04:10 +0530",
       "potato": "2022-01-29 22:30:11 +0530",
       "cooked_cod": "2022-01-23 13:56:16 +0530",
       "pumpkin_pie": "2022-01-25 22:24:09 +0530",
