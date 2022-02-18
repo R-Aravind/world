@@ -1,0 +1,45 @@
+{
+  "vanillatweaks:anti_creeper_grief": {
+    "criteria": {
+      "tick": "2022-02-18 12:05:40 +0530"
+    },
+    "done": true
+  },
+  "vanillatweaks:spawn": {
+    "criteria": {
+      "tick": "2022-02-18 12:05:40 +0530"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-02-18 12:05:40 +0530"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2022-02-18 12:05:40 +0530"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2022-02-18 12:05:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2022-02-18 12:05:40 +0530"
+    },
+    "done": false
+  },
+  "vanillatweaks:homes": {
+    "criteria": {
+      "tick": "2022-02-18 12:05:40 +0530"
+    },
+    "done": true
+  },
+  "DataVersion": 2865
+}

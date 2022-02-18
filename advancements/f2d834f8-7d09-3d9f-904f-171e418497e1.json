@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2022-02-16 23:51:50 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-01-24 15:32:22 +0530"
@@ -164,6 +170,12 @@
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-01-24 14:36:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-02-17 01:40:06 +0530"
     },
     "done": true
   },
@@ -347,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-02-17 00:23:17 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-01-24 15:32:22 +0530"
@@ -398,6 +416,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-24 16:40:42 +0530"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-02-16 13:36:24 +0530"
     },
     "done": true
   },
@@ -731,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2022-02-17 02:58:27 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-24 15:16:32 +0530"
@@ -788,14 +818,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-01-27 01:24:36 +0530",
+      "minecraft:blaze": "2022-02-16 23:58:55 +0530",
       "minecraft:skeleton": "2022-01-24 15:25:07 +0530",
       "minecraft:hoglin": "2022-01-31 02:34:40 +0530",
       "minecraft:vindicator": "2022-02-10 00:58:58 +0530",
+      "minecraft:magma_cube": "2022-02-16 23:53:26 +0530",
       "minecraft:spider": "2022-01-24 14:49:55 +0530",
       "minecraft:creeper": "2022-02-01 00:30:00 +0530",
       "minecraft:phantom": "2022-02-10 00:22:01 +0530",
       "minecraft:zombified_piglin": "2022-01-27 15:01:49 +0530",
       "minecraft:witch": "2022-01-30 17:33:28 +0530",
+      "minecraft:wither_skeleton": "2022-02-16 23:58:09 +0530",
       "minecraft:cave_spider": "2022-01-25 01:23:05 +0530",
       "minecraft:piglin": "2022-01-27 15:00:13 +0530",
       "minecraft:zombie": "2022-01-24 15:20:40 +0530",
@@ -935,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2022-02-16 23:51:50 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2022-01-27 01:24:39 +0530"
@@ -962,6 +1001,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2022-01-29 00:10:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-02-16 23:51:50 +0530"
     },
     "done": true
   },
@@ -1061,6 +1106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2022-02-16 23:58:56 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-01-24 15:16:25 +0530"
@@ -1139,6 +1190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-02-16 23:51:50 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2022-01-24 15:32:22 +0530"
@@ -1172,6 +1229,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2022-02-04 23:55:43 +0530"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2022-02-16 13:36:24 +0530"
     },
     "done": true
   },
@@ -1298,6 +1361,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2022-01-29 19:24:37 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2022-02-17 02:58:27 +0530"
     },
     "done": true
   },
@@ -1478,6 +1547,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-24 15:16:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-02-16 23:51:50 +0530"
     },
     "done": true
   },
@@ -2064,6 +2139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2022-02-16 23:51:50 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-24 15:16:32 +0530"
@@ -2079,6 +2160,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-24 16:40:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2022-02-17 00:28:43 +0530"
     },
     "done": true
   },
@@ -2411,6 +2498,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-02-17 00:18:49 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2022-01-24 16:11:36 +0530"
@@ -2512,6 +2605,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2022-01-25 01:23:01 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2022-02-17 00:23:17 +0530"
     },
     "done": true
   },
@@ -2965,6 +3064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-02-16 23:51:50 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2022-01-24 14:49:57 +0530"
@@ -2998,6 +3103,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-01-24 15:16:25 +0530"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-02-16 23:57:51 +0530"
     },
     "done": true
   },
@@ -3058,6 +3169,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2022-01-29 01:53:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2022-02-17 02:58:27 +0530"
     },
     "done": true
   },
@@ -3130,6 +3247,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-01-27 15:18:31 +0530"
+    },
+    "done": true
+  },
+  "vanillatweaks:homes": {
+    "criteria": {
+      "tick": "2022-02-16 13:36:24 +0530"
     },
     "done": true
   },
@@ -3229,6 +3352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2022-02-17 00:18:49 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2022-01-31 02:36:05 +0530"
@@ -3277,6 +3406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2022-02-16 23:58:56 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2022-01-29 20:06:57 +0530"
@@ -3319,6 +3454,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-02-16 23:58:56 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2022-01-25 01:23:01 +0530"
@@ -3355,6 +3496,12 @@
     },
     "done": true
   },
+  "vanillatweaks:spawn": {
+    "criteria": {
+      "tick": "2022-02-16 13:36:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2022-01-24 15:32:52 +0530"
@@ -3364,6 +3511,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-01-25 00:38:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2022-02-16 23:51:50 +0530"
     },
     "done": true
   },
@@ -3505,6 +3658,18 @@
     },
     "done": true
   },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2022-02-16 13:36:24 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2022-02-16 23:51:50 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-24 15:16:32 +0530"
@@ -3622,6 +3787,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-02-10 15:20:10 +0530"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_creeper_grief": {
+    "criteria": {
+      "tick": "2022-02-16 13:36:24 +0530"
     },
     "done": true
   },
