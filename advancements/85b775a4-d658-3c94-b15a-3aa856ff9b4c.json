@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2022-02-18 23:17:54 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-01-29 01:37:34 +0530"
@@ -4037,6 +4043,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2022-01-26 23:09:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2022-02-18 23:09:18 +0530"
     },
     "done": true
   },

@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-03-02 01:45:16 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2022-01-24 23:29:37 +0530"
@@ -302,6 +308,12 @@
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2022-02-10 00:43:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2022-03-02 01:28:04 +0530"
     },
     "done": true
   },
@@ -497,6 +509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2022-02-10 00:57:44 +0530"
@@ -530,6 +548,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2022-02-01 00:35:30 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2022-07-03 11:11:07 +0530"
     },
     "done": true
   },
@@ -647,6 +671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2022-01-23 14:52:11 +0530"
@@ -692,6 +722,12 @@
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2022-01-27 18:22:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-07-05 23:04:53 +0530"
     },
     "done": true
   },
@@ -761,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2022-01-25 00:39:12 +0530"
@@ -803,6 +845,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2022-03-02 00:01:27 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-01-23 01:02:32 +0530"
@@ -839,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2022-03-02 00:42:38 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2022-01-26 01:13:09 +0530"
@@ -863,11 +917,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-07-05 23:04:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-01-25 20:55:39 +0530",
       "minecraft:blaze": "2022-02-16 19:12:08 +0530",
       "minecraft:skeleton": "2022-01-23 01:25:05 +0530",
+      "minecraft:ravager": "2022-07-03 00:31:40 +0530",
       "minecraft:ghast": "2022-02-12 20:00:50 +0530",
       "minecraft:hoglin": "2022-02-04 22:28:13 +0530",
       "minecraft:vindicator": "2022-02-16 00:27:13 +0530",
@@ -879,10 +940,14 @@
       "minecraft:zombified_piglin": "2022-02-09 23:54:25 +0530",
       "minecraft:witch": "2022-01-25 01:52:33 +0530",
       "minecraft:wither_skeleton": "2022-02-16 19:13:55 +0530",
+      "minecraft:ender_dragon": "2022-03-02 00:42:38 +0530",
+      "minecraft:shulker": "2022-03-02 01:17:05 +0530",
       "minecraft:cave_spider": "2022-02-01 12:17:33 +0530",
       "minecraft:piglin": "2022-02-04 22:41:22 +0530",
       "minecraft:enderman": "2022-01-23 14:36:07 +0530",
       "minecraft:silverfish": "2022-01-26 23:15:12 +0530",
+      "minecraft:stray": "2022-02-27 22:35:37 +0530",
+      "minecraft:vex": "2022-07-03 22:47:46 +0530",
       "minecraft:zombie": "2022-01-23 02:12:59 +0530",
       "minecraft:drowned": "2022-01-26 01:23:13 +0530",
       "minecraft:zombie_villager": "2022-01-28 18:01:47 +0530"
@@ -898,6 +963,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2022-02-16 22:36:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
     },
     "done": true
   },
@@ -1027,9 +1098,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2022-02-12 13:07:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
     },
     "done": true
   },
@@ -1048,6 +1131,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-01-23 01:24:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
     },
     "done": true
   },
@@ -1099,6 +1188,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2022-03-01 23:39:54 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-01-27 16:48:33 +0530"
@@ -1141,6 +1236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2022-07-05 22:07:52 +0530"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2022-01-25 21:20:23 +0530"
@@ -1174,6 +1275,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-02-16 19:14:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-03-01 23:55:15 +0530"
     },
     "done": true
   },
@@ -1273,9 +1380,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-03-02 03:54:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-02-04 23:16:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
     },
     "done": true
   },
@@ -1399,6 +1518,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2022-03-02 03:54:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2022-01-24 16:02:55 +0530"
@@ -1429,6 +1554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2022-01-24 16:07:37 +0530"
@@ -1453,9 +1584,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-01-26 01:13:09 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-07-05 23:04:53 +0530"
     },
     "done": true
   },
@@ -1477,6 +1620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2022-01-23 02:01:14 +0530"
@@ -1492,6 +1641,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2022-01-26 23:29:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
     },
     "done": true
   },
@@ -1585,6 +1740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-07-05 23:04:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2022-01-23 01:00:21 +0530"
@@ -1600,6 +1761,18 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-01-28 01:18:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2022-07-08 23:09:10 +0530"
     },
     "done": true
   },
@@ -1779,6 +1952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2022-03-02 03:54:24 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2022-01-23 00:54:32 +0530"
@@ -1833,6 +2012,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-07-05 23:04:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2022-01-23 01:42:56 +0530"
@@ -1872,6 +2063,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_red_dye": "2022-02-05 22:21:16 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
     },
     "done": true
   },
@@ -1953,6 +2150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2022-01-24 16:02:53 +0530"
@@ -1986,6 +2189,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2022-01-23 13:54:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
     },
     "done": true
   },
@@ -2154,6 +2363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-07-05 23:04:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2022-02-01 12:10:42 +0530"
@@ -2169,6 +2384,12 @@
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2022-01-23 01:26:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
     },
     "done": true
   },
@@ -2346,6 +2567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-03-02 00:48:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2022-01-26 22:39:41 +0530"
@@ -2460,6 +2687,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2022-03-02 01:49:23 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-01-27 18:38:15 +0530"
@@ -2469,6 +2702,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2022-02-05 12:30:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2022-03-01 16:04:39 +0530"
     },
     "done": true
   },
@@ -2502,6 +2741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-02-05 12:20:51 +0530",
@@ -2510,6 +2755,7 @@
       "cooked_mutton": "2022-01-23 01:36:34 +0530",
       "sweet_berries": "2022-01-29 22:19:44 +0530",
       "cooked_beef": "2022-01-23 01:22:37 +0530",
+      "chorus_fruit": "2022-03-02 01:53:21 +0530",
       "beef": "2022-01-28 01:10:28 +0530",
       "baked_potato": "2022-01-29 23:05:05 +0530",
       "porkchop": "2022-02-05 12:17:36 +0530",
@@ -2527,8 +2773,11 @@
       "glow_berries": "2022-01-25 12:50:00 +0530",
       "salmon": "2022-01-23 01:59:12 +0530",
       "melon_slice": "2022-01-25 01:58:05 +0530",
+      "golden_carrot": "2022-02-28 03:31:48 +0530",
+      "beetroot": "2022-03-02 01:49:47 +0530",
       "cooked_chicken": "2022-01-23 13:22:11 +0530",
       "cod": "2022-01-29 19:20:28 +0530",
+      "rabbit_stew": "2022-02-28 16:58:13 +0530",
       "cooked_salmon": "2022-01-23 01:10:39 +0530",
       "carrot": "2022-01-29 18:27:11 +0530"
     },
@@ -2825,6 +3074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2022-03-02 01:49:23 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2022-01-23 00:53:40 +0530"
@@ -3083,6 +3338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2022-03-01 23:01:40 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-24 15:12:42 +0530"
@@ -3092,6 +3353,12 @@
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2022-02-04 16:05:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2022-02-27 23:56:13 +0530"
     },
     "done": true
   },
@@ -3122,6 +3389,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-01-23 01:26:53 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2022-03-01 23:01:40 +0530"
     },
     "done": true
   },
@@ -3323,6 +3596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2022-01-23 00:57:19 +0530"
@@ -3332,6 +3611,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2022-01-28 01:18:05 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2022-07-08 23:09:10 +0530"
     },
     "done": true
   },
@@ -3389,6 +3674,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-03-02 00:48:45 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-03-02 00:48:45 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-01-23 01:26:53 +0530"
@@ -3398,6 +3695,12 @@
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2022-02-01 01:03:13 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2022-07-05 22:07:52 +0530"
     },
     "done": true
   },
@@ -3665,6 +3968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2022-03-02 01:17:32 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2022-02-16 20:41:30 +0530"
@@ -3725,6 +4034,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-03-02 01:15:57 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2022-02-16 19:14:11 +0530"
@@ -3740,6 +4055,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab": {
     "criteria": {
       "has_polished_granite": "2022-01-30 00:18:07 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2022-03-02 00:55:51 +0530"
     },
     "done": true
   },
@@ -3905,6 +4226,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2022-07-05 23:04:53 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-01-23 00:53:14 +0530"
@@ -3932,6 +4259,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-02-01 15:02:11 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2022-03-02 00:48:45 +0530"
     },
     "done": true
   },
@@ -3977,6 +4310,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2022-02-28 02:08:15 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-01-23 01:26:53 +0530"
@@ -4004,6 +4343,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-24 15:12:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-03-01 23:55:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2022-03-02 00:48:45 +0530"
     },
     "done": true
   },
@@ -4085,6 +4436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-01-29 18:57:25 +0530"
@@ -4106,6 +4463,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2022-01-24 16:02:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2022-03-02 03:22:53 +0530"
     },
     "done": true
   },
@@ -4148,6 +4511,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2022-01-25 01:57:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2022-03-01 15:48:42 +0530"
     },
     "done": true
   },
